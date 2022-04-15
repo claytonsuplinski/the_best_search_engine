@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Drake';
+	src :   url( 'drake.woff2' ) format('woff2'),
+			url( 'drake.ttf'   ) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
